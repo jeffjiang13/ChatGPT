@@ -80,6 +80,7 @@ const handleSubmit = async (e) => {
   // fetch data from server -> bot's response
 
   const response = await fetch('https://codex-enew.onrender.com', {
+    model:"gpt-3.5-turbo",
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
