@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jeffjiang13/ChatGPT">
+  <a href="https://jj-chatgpt.vercel.app/">
     <img src="client/assets/bot.svg" alt="cryptoket" width="200" height="50">
   </a>
 
