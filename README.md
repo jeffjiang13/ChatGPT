@@ -11,4 +11,4 @@
 
 </div>
 👋 To try out click here
-<a href="https://chatgpt-inky.vercel.app/" > DEMO
+<a href="https://jj-chatgpt.vercel.app/" > DEMO
